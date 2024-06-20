@@ -1,2 +1,2 @@
 print("Olá mundo!")
-print("tchau mundo e agora fui!")
+print("tchau mundo e agora fui hehehhe!")
